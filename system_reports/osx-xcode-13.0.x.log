@@ -1390,11 +1390,11 @@ Software:
       Kernel Version: Darwin 20.6.0
       Boot Volume: Macintosh HD
       Boot Mode: Normal
-      Computer Name: vm-osx-xcode-13.0.x-g2.4core-a20e264d-5942-4ac4-a03c-5041faa819b4
+      Computer Name: vm-osx-xcode-13.0.x-g2.4core-6a23de9d-5efb-4608-bb5f-0a1207431fd2
       User Name: vagrant (vagrant)
       Secure Virtual Memory: Enabled
       System Integrity Protection: Disabled
-      Time since boot: 10 minutes
+      Time since boot: 5 minutes
 
 
 ========================================
